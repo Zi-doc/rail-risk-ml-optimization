@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+data/*
+outputs/*
+!data/README.md
+!outputs/figures/.gitkeep
