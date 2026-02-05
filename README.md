@@ -1,6 +1,6 @@
 # Rail Accident Risk Modeling using Machine Learning and Network Analysis
 
-This repository contains the code developed for Chapter 3 of my PhD research, where I built a data-driven framework to estimate the consequences of rail accidents and translate those predictions into a network-level risk analysis for identifying critical rail links.
+This repository contains the code developed for a research project, where I built a data-driven framework to estimate the consequences of rail accidents and translate those predictions into a network-level risk analysis for identifying critical rail links.
 
 The goal of this work was not only to build predictive models, but to connect accident data, machine learning, and network structure in a way that supports risk-aware decision making in rail transportation.
 
