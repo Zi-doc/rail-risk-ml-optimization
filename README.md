@@ -12,7 +12,7 @@ The goal of this work was not only to build predictive models, but to connect ac
 - Network/path construction and link-level risk aggregation
 
 ## Start here
-Open notebooks in this order:
+Open data notebooks in this order:
 1. `01_data_prep_imputation.ipynb`
 2. `02_regression_acddmg_rfecv_linear.ipynb`
 3. `03_classification_casinj_imbalance.ipynb`
